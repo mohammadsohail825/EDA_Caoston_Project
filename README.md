@@ -1,2 +1,2 @@
-# EDA_Caoston_Project
+# EDA_Capston_Project
 Analyzing the data of Play store 
